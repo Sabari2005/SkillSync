@@ -65,32 +65,13 @@ The Resume Parser and Skills Matcher is a Python-based web application designed 
 
     Open your web browser and go to `http://127.0.0.1:8000/`.`
 
-## **To see the tasks stored in the database**
-1. **Default Admin Credentials**
-     
-     Open your web browser and go to `http://127.0.0.1:8000/admin`.
-     
-     Enter the credentials give below.
-
-    ```bash
-    default={
-        username:"uvarajan";
-        password:123456789;
-    }
-    ```
-
-## Creating a new Admin credentials
-
-1. **Create a superuser (optional):**
-
-    ```bash
-    python manage.py createsuperuser
-    ```
-
-2. **Django admin panel**
-
-    Open your web browser and go to `http://127.0.0.1:8000/admin`.
 
 ## Author
 
-- Website - [UVARAJAN_D](https://uvarajand.github.io/uvarajan/index.html)
+- Website - [SABARI VADIVELAN](https://in.linkedin.com/in/sabari-vadivelan-s-637667258)
+- Website - [UVARAJAN_D](www.linkedin.com/in/uvarajan-dev)
+
+## Contact Developer
+
+- Discord - [SABARI VADIVELAN]()
+- Discord - [UVARAJAN]() 
