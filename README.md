@@ -23,11 +23,11 @@ The Resume Parser and Skills Matcher is a Python-based web application designed 
 ### Screenshot
 
 #### SkillSync Home Page
-![screenshot_mobile view](./Screenshots/skillsync_screenshot1.png)
+![screenshot_mobile view](/Screenshots/skillsync_screenshot1.png)
 #### SkillSync company Page
-![screenshot_mobile view](./Screenshots/skillsync_screenshot2.png)
+![screenshot_mobile view](/Screenshots/skillsync_screenshot2.png)
 #### SkillSync individual Page
-![screenshot_mobile view](./Screenshots/skillsync_screenshot3.png)
+![screenshot_mobile view](/Screenshots/skillsync_screenshot3.png)
 
 
 ## Built with
